@@ -534,13 +534,6 @@ header .navbar ul li a:hover {
   background: #e5ecfb;
   min-height: 80vh;
 }
-.education .qoute {
-  font-size: 1.5rem;
-  text-align: center;
-  font-family: "Nunito", sans-serif;
-  font-weight: 600;
-  margin-top: 0.5rem;
-}
 .education .box-container {
   display: flex;
   flex-wrap: wrap;
