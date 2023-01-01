@@ -1,32 +1,32 @@
 [
   {
-    "name": "MaskUP: A Novel Model to Detect Masks in Public Spaces",
+    "name": "MaskUP",
     "desc": "Uses video surveillance camera footage to capture images of people who are not wearing masks.",
-    "image": "notystackandroid",
+    "image": "maskup",
     "links": {
       "code": "https://github.com/YashS30/mask-detector/tree/main"
     }
   },
   {
-    "name": "TutorialRoach: A New Way to Discover Ideas",
+    "name": "TutorialRoach",
     "desc": "Web app designed to encourage users to showcase their expertise. Uses Ethereum Smart contracts and CockroachDB systems.",
-    "image": "sppuprepandroid",
+    "image": "tutorialRoach",
     "links": {
       "code": "https://github.com/YashS30/jamhacks-project/tree/main"
     }
   },
   {
-    "name": "myWaste: A Novel Way of Discovering Waste Production",
+    "name": "myWaste",
     "desc": "Encourages citizens to be mindful how much waste is produced in the neighbourhood to maintain eco-friendly neighbourhoods.",
-    "image": "newsboxandroid",
+    "image": "mywaste",
     "links": {
       "code": "https://github.com/YashS30/hackathon-project"
     }
   },
   {
-    "name": "medChat: A Quick Way to Connect with Medical Assistance",
+    "name": "medChat",
     "desc": "The app connects patients needing medical attention to professional nurses to receive quick treatment or remedies.",
-    "image": "weatherlyandroid",
+    "image": "medchat2",
     "links": {
       "code": "https://github.com/YashS30/uOttaHack-project"
     }
@@ -34,8 +34,7 @@
   {
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
+    "image": "website",
     "links": {
       "view": "#",
       "code": "https://github.com/YashS30/Portfolio-Website"
