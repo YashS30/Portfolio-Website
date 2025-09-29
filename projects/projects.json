@@ -1,5 +1,37 @@
 [
   {
+    "name": "HarmoniAI",
+    "desc": "LLM-powered mental-wellbeing chat with real-time streaming, conversation memory, and privacy-first storage.",
+    "image": "harmoniAI",
+    "links": {
+      "code": "https://github.com/Seal5/HarmoniAI"
+    }
+  },
+  {
+    "name": "SkipSense",
+    "desc": "ML system that predicts track skips using audio spectrograms + listener metadata, powering a personalized “discover” playlist.",
+    "image": "skipSense",
+    "links": {
+      "code": "https://github.com/YashS30/SkipSense"
+    }
+  },
+  {
+    "name": "RaySimOpt",
+    "desc": "Distributed simulation and hyperparameter optimization on Ray; orchestrates parallel experiments with reproducible configs to dramatically shorten iteration cycles.",
+    "image": "raysimopt",
+    "links": {
+      "code": "https://github.com/YashS30/RaySimOpt"
+    }
+  },
+  {
+    "name": "Vehicost",
+    "desc": "Vehicle total-cost-of-ownership calculator comparing fuel, insurance, maintenance, and depreciation with interactive scenarios.",
+    "image": "vehicost",
+    "links": {
+      "code": "https://github.com/YashS30/Vehicost"
+    }
+  },
+  {
     "name": "MaskUP",
     "desc": "Uses video surveillance camera footage to capture images of people who are not wearing masks.",
     "image": "maskup",
