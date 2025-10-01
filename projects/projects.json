@@ -4,7 +4,7 @@
     "desc": "LLM-powered mental-wellbeing chat with real-time streaming, conversation memory, and privacy-first storage.",
     "image": "harmoniAI",
     "links": {
-      "code": "https://github.com/Seal5/HarmoniAI"
+      "code": "https://github.com/YashS30/HarmoniAI"
     }
   },
   {
@@ -53,14 +53,6 @@
     "image": "mywaste",
     "links": {
       "code": "https://github.com/YashS30/hackathon-project"
-    }
-  },
-  {
-    "name": "medChat",
-    "desc": "The app connects patients needing medical attention to professional nurses to receive quick treatment or remedies.",
-    "image": "medchat2",
-    "links": {
-      "code": "https://github.com/YashS30/uOttaHack-project"
     }
   },
   {
