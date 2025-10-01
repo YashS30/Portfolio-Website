@@ -17,7 +17,7 @@
   },
   {
     "name": "RaySimOpt",
-    "desc": "Distributed simulation and hyperparameter optimization on Ray; orchestrates parallel experiments with reproducible configs to dramatically shorten iteration cycles.",
+    "desc": "CPU-based urban ray-tracing simulator generating sensor data and AI-optimized rendering for autonomous vehicles training evaluation.",
     "image": "raysimopt",
     "links": {
       "code": "https://github.com/YashS30/RaySimOpt"
